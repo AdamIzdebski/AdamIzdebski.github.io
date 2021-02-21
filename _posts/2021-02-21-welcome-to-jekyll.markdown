@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Introduction to Causal Inference"
 date:   2021-02-21 19:26:10 +0100
 categories: jekyll update
 ---

@@ -4,15 +4,12 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I am a Machine Learning Researcher
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Currently, I am a reseach intern at [Pacmed](https://pacmed.ai/en) working on causal inference. 
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Before, I studied logic at the Institute for Logic Language and Computations at UvA in Amsterdam and I hold a master's degree in mathematics obtained at University of Warsaw. 
 
+For my full CV check ... 
 
-[jekyll-organization]: https://github.com/jekyll
+Applying insights from mathematical understanding of machine learning methodology to real-world data is the thing that I find the most rewarding. 
